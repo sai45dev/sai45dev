@@ -1,2 +1,3 @@
-create table staging_ord(
+create table stg_ord_new
+(
 );
