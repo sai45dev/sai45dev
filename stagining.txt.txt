@@ -1,0 +1,2 @@
+create table staging_ord(
+);
